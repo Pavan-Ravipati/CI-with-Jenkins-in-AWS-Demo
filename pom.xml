@@ -47,7 +47,7 @@
                         <addMavenDescriptor>false</addMavenDescriptor>
                     </archive>
                 </configuration>
-            </plugin>
+            </plugin> 
         </plugins> 
     </build>
 </project>
